@@ -1,0 +1,26 @@
+.firstBlock{
+    width: 80%;
+    border: solid black;
+    margin-left: 10%;
+    height: 500px;
+}
+.logo{
+      padding-right:left: 90%;
+}   
+.span{
+    padding-left: 90%;
+}
+.secondBlock{
+    width: 80%;
+    border: solid black;
+    margin-left: 10%;
+    height: 200px;
+}
+.exitButton{
+    padding-left: 95%;
+    padding-top: 2%;
+}
+.menuBalk{
+ width: 10%;
+ display: inline;
+}
